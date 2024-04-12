@@ -1,0 +1,22 @@
+[
+  {
+    "package": "roll",
+    "url": "https://github.com/jasonjfoster/roll"
+  },
+  {
+    "package": "rolleda",
+    "url": "https://github.com/jasonjfoster/rolleda"
+  },
+  {
+    "package": "rolleigen",
+    "url": "https://github.com/jasonjfoster/rolleigen"
+  },
+  {
+    "package": "rolloptim",
+    "url": "https://github.com/jasonjfoster/rolloptim"
+  },
+  {
+    "package": "rollshap",
+    "url": "https://github.com/jasonjfoster/rollshap"
+  }
+]
