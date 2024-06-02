@@ -18,5 +18,9 @@
   {
     "package": "rollshap",
     "url": "https://github.com/jasonjfoster/rollshap"
+  },
+  {
+    "package": "rolltalk",
+    "url": "https://github.com/jasonjfoster/rolltalk"
   }
 ]
