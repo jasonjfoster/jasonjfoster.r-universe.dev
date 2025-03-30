@@ -24,7 +24,8 @@
     "url": "https://github.com/jasonjfoster/rolltalk"
   },
   {
-    "package": "screen",
-    "url": "https://github.com/jasonjfoster/screen"
+    "package": "screenr",
+    "url": "https://github.com/jasonjfoster/screen",
+    "subdir": "r"
   }
 ]
