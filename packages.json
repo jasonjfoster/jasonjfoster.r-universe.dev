@@ -25,7 +25,6 @@
   },
   {
     "package": "screenr",
-    "url": "https://github.com/jasonjfoster/screen",
-    "subdir": "r"
+    "url": "https://github.com/jasonjfoster/screen"
   }
 ]
