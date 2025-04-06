@@ -22,9 +22,5 @@
   {
     "package": "rolltalk",
     "url": "https://github.com/jasonjfoster/rolltalk"
-  },
-  {
-    "package": "screen",
-    "url": "https://github.com/jasonjfoster/screen"
   }
 ]
