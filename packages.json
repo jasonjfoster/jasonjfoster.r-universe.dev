@@ -22,5 +22,10 @@
   {
     "package": "rolltalk",
     "url": "https://github.com/jasonjfoster/rolltalk"
+  },
+  {
+    "package": "yfscreen",
+    "url": "https://github.com/jasonjfoster/screen",
+    "subdir": "r"
   }
 ]
