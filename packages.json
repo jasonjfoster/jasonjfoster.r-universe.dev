@@ -27,5 +27,10 @@
     "package": "yfscreen",
     "url": "https://github.com/jasonjfoster/screen",
     "subdir": "r"
+  },
+  {
+    "package": "yfhist",
+    "url": "https://github.com/jasonjfoster/hist",
+    "subdir": "r"
   }
 ]
