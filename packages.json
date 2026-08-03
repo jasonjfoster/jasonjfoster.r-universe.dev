@@ -24,6 +24,11 @@
     "url": "https://github.com/jasonjfoster/rolltalk"
   },
   {
+    "package": "secfile",
+    "url": "https://github.com/jasonjfoster/file",
+    "subdir": "r"
+  },
+  {
     "package": "yfscreen",
     "url": "https://github.com/jasonjfoster/screen",
     "subdir": "r"
